@@ -51,38 +51,37 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ### PROGRAM 
+Up counter:
+![ex6UCcode](https://github.com/Visalan-H/Exp-7-Synchornous-counters-/assets/152077751/b3459466-a600-4d19-90bd-ccfbeee6d9d7)
+
+Down counter:
+![ex6DCcode](https://github.com/Visalan-H/Exp-7-Synchornous-counters-/assets/152077751/46d3423c-d1f5-45ce-abad-a705fea5cc84)
+
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Visalan H
+RegisterNumber: 23007458 
 */
+## TRUTHTABLE
+Up counter:
+![ex6uptt](https://github.com/Visalan-H/Exp-7-Synchornous-counters-/assets/152077751/af21e24b-aa9c-4830-83aa-9fa25192e3c1)
 
+Down counter:
+![ex6downtt](https://github.com/Visalan-H/Exp-7-Synchornous-counters-/assets/152077751/f6237089-17ad-4538-ab92-e9f9dfd04d71)
 
+### RTL REALIZATION
+Up counter:
+![ex6UCrtl](https://github.com/Visalan-H/Exp-7-Synchornous-counters-/assets/152077751/247e5a47-6f20-46af-9ab3-6b7218fbb556)
 
+Down counter:
+![ex6DCrtl](https://github.com/Visalan-H/Exp-7-Synchornous-counters-/assets/152077751/4753a31b-73e1-4c0f-b859-4e7637a1d141)
 
+### OUTPUT
+Up counter:
+![ex6bUCoutput](https://github.com/Visalan-H/Exp-7-Synchornous-counters-/assets/152077751/e8091ff5-7850-469c-9597-47511b37dd5c)
 
-
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
-
+Down counter:
+![ex6DCoutput](https://github.com/Visalan-H/Exp-7-Synchornous-counters-/assets/152077751/970f1869-53bd-4a05-b152-0dfaadb6bed2)
 
 
 ### RESULTS 
