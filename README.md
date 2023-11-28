@@ -85,3 +85,4 @@ Down counter:
 
 
 ### RESULTS 
+HENCE THE OUTPUTS ARE VERIFIED.
